@@ -1,0 +1,12 @@
+Selected interface 'wlan0'
+bssid=6e:83:36:90:20:76
+ssid=DIRECT-1U
+id=18
+psk=cacbee66ac50b32e53e5e7ce3896754cbaa72595930675455f21d5fbd5e6df
+mode=station
+pairwise_cipher=CCMP
+group_cipher=CCMP
+key_mgmt=WPA2-PSK
+wpa_state=COMPLETED
+address=00:26:66:4b:a0:f2
+signal_level=100

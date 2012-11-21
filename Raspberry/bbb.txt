@@ -1,0 +1,16 @@
+Selected interface 'wlan0'
+6e:83:36:90:20:76
+dot11RSNAStatsSTAAddress=6e:83:36:90:20:76
+dot11RSNAStatsVersion=1
+dot11RSNAStatsSelectedPairwiseCipher=00-0f-ac-4
+dot11RSNAStatsTKIPLocalMICFailures=0
+dot11RSNAStatsTKIPRemoteMICFailures=0
+hostapdWPAPTKState=11
+hostapdWPAPTKGroupState=0
+wpsUuid=377b1bf4-2165-5e10-82bf-1213b50fcd76
+wpsPrimaryDeviceType=0-00000000-0
+wpsDeviceName= 
+wpsManufacturer= 
+wpsModelName= 
+wpsModelNumber= 
+wpsSerialNumber= 
